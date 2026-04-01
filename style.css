@@ -771,7 +771,7 @@ html[lang="en"] .review-text{
   }
 
   .landing-phone{
-    font-size:15px; /* slightly smaller so numbers fit on one line */
+    font-size:20px; /* slightly smaller so numbers fit on one line */
     white-space:nowrap;
     display:inline-block;
   }
@@ -779,7 +779,7 @@ html[lang="en"] .review-text{
 
 @media (max-width: 380px){
   .landing-hero{ padding-top:250px; }
-  .landing-phone{ font-size:14px; }
+  .landing-phone{ font-size:20px; }
 }
 
 /* =========================
