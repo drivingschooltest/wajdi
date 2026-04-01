@@ -445,14 +445,14 @@ html[lang="en"] .review-text{
 
 .landing-phone{
   margin:8px 0 4px;
-  font-size:18px;
+  font-size:22px;
   font-weight:900;
   letter-spacing:1px;
   color:rgba(255,255,255,.9);
   margin-bottom:2px;
 }
 .landing-phone::after{ content:" ☎ "; opacity:.85; }
-.landing-phone::before{ content:" ☎ "; opacity:.85; }
+
 
 .landing-location{
   font-size: 16px;
